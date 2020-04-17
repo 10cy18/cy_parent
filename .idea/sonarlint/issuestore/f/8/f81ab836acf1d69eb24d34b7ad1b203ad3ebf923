@@ -1,0 +1,10 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÕÉùÿÿÿÿ8ÏúÊ„˜.
+Fsquid:S1481"+Remove this unused "logMap" local variable.(¥åÚ(8ÏúÊ„˜.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´®»¦ùÿÿÿÿ8ÏúÊ„˜.
+Usquid:S1854":Remove this useless assignment to local variable "logMap".(¥åÚ(8ÏúÊ„˜.
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ õéüÿÿÿÿ
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÏúÊ„˜.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çºÀØúÿÿÿÿ8ÏúÊ„˜.

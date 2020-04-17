@@ -1,0 +1,8 @@
+
+\squid:UselessImportCheck"5Remove this unused import 'com.rabbitmq.client.AMQP'.(È†úşÿÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”·›úÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äê”“ûÿÿÿÿ
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñãÕ^
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¹¦ªúÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğ÷µ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ê¦øÿÿÿÿ

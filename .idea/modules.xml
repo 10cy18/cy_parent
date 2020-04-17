@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cy_article/cy_article.iml" filepath="$PROJECT_DIR$/cy_article/cy_article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_base/cy_base.iml" filepath="$PROJECT_DIR$/cy_base/cy_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_common/cy_common.iml" filepath="$PROJECT_DIR$/cy_common/cy_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_eureka/cy_eureka.iml" filepath="$PROJECT_DIR$/cy_eureka/cy_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_gathering/cy_gathering.iml" filepath="$PROJECT_DIR$/cy_gathering/cy_gathering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_manager/cy_manager.iml" filepath="$PROJECT_DIR$/cy_manager/cy_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_parent.iml" filepath="$PROJECT_DIR$/cy_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_qa/cy_qa.iml" filepath="$PROJECT_DIR$/cy_qa/cy_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_rabbitmq_producer/cy_rabbitmq_producer.iml" filepath="$PROJECT_DIR$/cy_rabbitmq_producer/cy_rabbitmq_producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_rabbitmqtest/cy_rabbitmqtest.iml" filepath="$PROJECT_DIR$/cy_rabbitmqtest/cy_rabbitmqtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_recruit/cy_recruit.iml" filepath="$PROJECT_DIR$/cy_recruit/cy_recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_search/cy_search.iml" filepath="$PROJECT_DIR$/cy_search/cy_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_sms/cy_sms.iml" filepath="$PROJECT_DIR$/cy_sms/cy_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_user/cy_user.iml" filepath="$PROJECT_DIR$/cy_user/cy_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_web/cy_web.iml" filepath="$PROJECT_DIR$/cy_web/cy_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cy_xxl_job/cy_xxl_job.iml" filepath="$PROJECT_DIR$/cy_xxl_job/cy_xxl_job.iml" />
+    </modules>
+  </component>
+</project>

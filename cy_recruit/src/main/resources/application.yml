@@ -1,0 +1,13 @@
+server: 
+  port: 9002
+spring: 
+  application:  
+    name: cy-recruit #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/cy_recruit?characterEncoding=UTF8
+    username: root
+    password: 
+  jpa: 
+    database: MySQL
+    show-sql: true

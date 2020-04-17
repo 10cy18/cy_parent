@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_gathering" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_gathering/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_qa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_qa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_rabbitmq_producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_rabbitmqtest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_rabbitmqtest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_recruit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cy_xxl_job/src/main/java" charset="UTF-8" />
+  </component>
+</project>

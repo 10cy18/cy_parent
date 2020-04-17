@@ -1,0 +1,11 @@
+
+Isquid:S1066"/Merge this if statement with the enclosing one.(Ç¹ÆËúÿÿÿÿ
+Nsquid:S3516"9Refactor this method to not always return the same value.(“’è¨
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇçÍ
+Ksquid:S2692"10 is a valid index, but is ignored by this check.(¥Üßòúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(™©ùøÿÿÿÿ
+Csquid:S1905")Remove this unnecessary cast to "String".(ç©˜öıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ù—÷üÿÿÿÿ
